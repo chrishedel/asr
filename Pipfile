@@ -7,6 +7,9 @@ verify_ssl = true
 
 [packages]
 tqdm = "*"
+torch = {path = "/home/cwasilei/Downloads/torch-1.4.0-cp36-cp36m-linux_aarch64.whl"}
+numpy = "*"
+pyaudio = "*"
 
 [requires]
 python_version = "3.6"
